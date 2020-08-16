@@ -1,2 +1,2 @@
 # modul2
-Coursera modul2
+coursera-module2
